@@ -1,5 +1,5 @@
 # belajar-idem
-Ini repository untuk belajar modifikasi idempiere
+Ini repository untuk belajar modifikasi 
 
 # update 2
 Test update kedua
